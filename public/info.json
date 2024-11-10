@@ -1,0 +1,70 @@
+[
+      {
+        "recipe_id": 1,
+        "isCooked" :"true",
+        "clickCount" : 0,
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_image": "https://www.allrecipes.com/thmb/Y7ftij8uq7sM2VpxGt-RHZg3yaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-mfs-042-21d5decdffde4a1faa94a21725ce9cc3.jpg",
+        "short_description": "Classic Italian pasta dish with creamy sauce",
+        "ingredients": ["400g spaghetti", "150g pancetta", "3 large eggs", "75g grated Parmesan cheese", "2 cloves garlic", "Salt and pepper to taste"],
+        "preparing_time": "20 min",
+        "calories": "450 calories"
+      },
+      {
+        "recipe_id": 2,
+        "isCooked" :"true",
+        "clickCount" : 0,
+        "recipe_name": "Margherita Pizza",
+        "recipe_image": "https://thumbs.dreamstime.com/z/pizza-margherita-margarita-mozzarella-cheese-tomato-olive-italian-pizza-pizza-margherita-margarita-mozzarella-133884864.jpg",
+        "short_description": "Traditional Italian pizza topped with tomato, mozzarella, and basil",
+        "ingredients": ["300g pizza dough", "200g tomato sauce", "200g fresh mozzarella cheese", "1 handful fresh basil leaves", "2 tablespoons olive oil", "Salt and pepper to taste"],
+        "preparing_time": "25 min",
+        "calories": "300 calories"
+      },
+      {
+        "recipe_id": 3,
+        "isCooked" :"true",
+        "clickCount" : 0,
+        "recipe_name": "Tiramisu",
+        "recipe_image": "https://handletheheat.com/wp-content/uploads/2023/12/best-tiramisu-recipe-SQUARE.jpg",
+        "short_description": "Classic Italian dessert made with coffee-soaked ladyfingers and mascarpone cream",
+        "ingredients": ["250g mascarpone cheese", "3 large eggs", "100g granulated sugar", "200ml strong brewed coffee", "200g ladyfinger cookies", "Cocoa powder for dusting"],
+        "preparing_time": "30 min",
+        "calories": "350 calories"
+      },
+      {
+        "recipe_id": 4,
+        "isCooked" :"true",
+        "clickCount" : 0,
+        "recipe_name": "Sushi Rolls",
+        "recipe_image": "https://www.themidwestkitchenblog.com/wp-content/uploads/2022/08/ultimate-sushi-recipe-scaled.jpg",
+        "short_description": "Traditional Japanese sushi rolls with fresh fish and vegetables",
+        "ingredients": ["300g sushi rice", "4 nori seaweed sheets", "200g salmon sashimi", "1 cucumber", "1 avocado", "Soy sauce and wasabi for serving"],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+      },
+      {
+        "recipe_id": 5,
+        "isCooked" :"true",
+        "clickCount" : 0,
+        "recipe_name": "Chicken Teriyaki",
+        "recipe_image": "https://thumbs.dreamstime.com/b/dish-teriyaki-chicken-bowls-full-hd-mouth-watering-meal-sure-to-satisfy-your-cravings-comprises-succulent-293218743.jpg",
+        "short_description": "Japanese-style grilled chicken glazed with teriyaki sauce",
+        "ingredients": ["500g chicken thighs", "120ml soy sauce", "100ml mirin", "50g brown sugar", "2 cloves garlic", "1 teaspoon grated ginger"],
+        "preparing_time": "35 min",
+        "calories": "280 calories"
+      },
+      {
+        "recipe_id": 6,
+        "isCooked" :"true",
+        "clickCount" : 0,
+        "recipe_name": "Ramen",
+        "recipe_image": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Square.jpg",
+        "short_description": "Traditional Japanese soup made with miso paste and tofu",
+        "ingredients": ["4 cups dashi stock", "100g miso paste", "200g tofu", "2 spring onions", "1 sheet nori seaweed", "1 tablespoon soy sauce"],
+        "preparing_time": "15 min",
+        "calories": "100 calories"
+      }
+]
+
+  
